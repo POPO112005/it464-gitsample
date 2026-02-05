@@ -60,5 +60,5 @@ it464a-gitsample/
 ---
 
 <p align="center">
-    Made with ❤️ by Ekachai Kanya dpgdpfg dfgdf
+    Made with ❤️ by Ekachai Kanya
 </p>
